@@ -1,0 +1,14 @@
+{
+  "display_name": "Modern Aurora Theme",
+  "loading_order": 20,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Modern Theme Developer",
+  "version": "1.0.0",
+  "homePage": "https://github.com/your/modern-aurora-theme",
+  "auto_update": true,
+  "description": "A modern, visually appealing theme with aurora-inspired gradients, smooth animations, and responsive design for SillyTavern."
+}
